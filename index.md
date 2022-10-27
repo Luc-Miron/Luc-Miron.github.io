@@ -36,15 +36,15 @@ Generated Quality Management process documents for use by entire unit. Created r
  
 #### 400 Tactical Helicopter Squadron, Borden, ON (2012-2013)
 
- * **Tool Crib Technician**
+ * **Tool Crib Technician**   
    * Order, replace, and account for unit’s entire tool inventory.
    * Create packages for new job-specific tool kits.
 
 #### 410 Tactical Fighter Operational Training Squadron (2006-2011)
 
- * **Line Crew Supervisor**
+ * **Line Crew Supervisor**   
    * Support and supervise junior maintainers, expedite flight line repairs, task junior maintainers according to established priorities.
- * **Aircraft Maintenance Technician**
+ * **Aircraft Maintenance Technician**    
    * CF-18 Maintenance, order parts, schedule maintenance, task personnel.
  
 ### Education
