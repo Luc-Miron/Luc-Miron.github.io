@@ -24,11 +24,11 @@ Generated Quality Management process documents for use by entire unit. Created r
  * **Quality Management Team**
    * Review documents, audit processes, develop new processes, lead junior auditors, and facilitate auditor training.
 
-* **National Sentry Program 2018 Roto6 2IC**
+ * **National Sentry Program 2018 Roto6 2IC**
    * Lead team of RCAF sentries in sentry drill at the NWM.
    * Manage personnel, shift schedules, interpersonal conflicts.
  
-* **Aviation Systems Technician Instructor**
+ * **Aviation Systems Technician Instructor**
    * Teach complex course material, plan lessons, develop blended learning activities.
    * Entertainment Committee Canteen manager
    * Staffing, cash and accounting.
@@ -36,15 +36,15 @@ Generated Quality Management process documents for use by entire unit. Created r
  
 #### 400 Tactical Helicopter Squadron, Borden, ON (2012-2013)
 
-* **Tool Crib Technician**
+ * **Tool Crib Technician**
    * Order, replace, and account for unit’s entire tool inventory.
    * Create packages for new job-specific tool kits.
 
 #### 410 Tactical Fighter Operational Training Squadron (2006-2011)
 
-* **Line Crew Supervisor**
+ * **Line Crew Supervisor**
    * Support and supervise junior maintainers, expedite flight line repairs, task junior maintainers according to established priorities.
-* **Aircraft Maintenance Technician**
+ * **Aircraft Maintenance Technician**
    * CF-18 Maintenance, order parts, schedule maintenance, task personnel.
  
 ### Education
