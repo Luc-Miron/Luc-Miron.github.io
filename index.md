@@ -20,17 +20,18 @@ Generated Quality Management process documents for use by entire unit. Created r
 
 
 ### Work History
+
 #### Canadian forces School of Aerospace Technology and Engineering, Borden, ON (2011-2012, 2013-present)
 
  * **Quality Management Team**
-   * Review documents, audit processes, develop new processes, lead junior auditors, and facilitate auditor training.
+   * Review documents, audit processes, develop new 	processes, lead junior auditors, and facilitate 	auditor training.
 
  * **National Sentry Program 2018 Roto6 2IC**
-   * Lead team of RCAF sentries in sentry drill at the NWM.
-   * Manage personnel, shift schedules, interpersonal conflicts.
+   * Lead team of RCAF sentries in sentry drill at the 	Nation War Memorial, Ottawa, ON.
+   * Manage personnel, shift schedules, interpersonal 	conflicts.
  
  * **Aviation Systems Technician Instructor**
-   * Teach complex course material, plan lessons, develop blended learning activities.
+   * Teach complex course material, plan lessons, 	develop blended learning activities.
    * Entertainment Committee Canteen manager
    * Staffing, cash and accounting.
    * Oversight of ordering stock and sales.
@@ -38,17 +39,24 @@ Generated Quality Management process documents for use by entire unit. Created r
 #### 400 Tactical Helicopter Squadron, Borden, ON (2012-2013)
 
  * **Tool Crib Technician**   
-   * Order, replace, and account for unit’s entire tool inventory.
+   * Order, replace, and account for unit’s entire tool 	inventory.
    * Create packages for new job-specific tool kits.
 
 #### 410 Tactical Fighter Operational Training Squadron (2006-2011)
 
- * **Line Crew Supervisor**   
-   * Support and supervise junior maintainers, expedite flight line repairs, task junior maintainers according to established priorities.
+ * **Line Crew Supervisor**
+ 	* Support and supervise junior maintainers, expedite 	flight line repairs, task junior maintainers 	according to established priorities.
+ 	
  * **Aircraft Maintenance Technician**    
-   * CF-18 Maintenance, order parts, schedule maintenance, task personnel.
+   * CF-18 Maintenance, order parts, schedule 	maintenance, task personnel.
  
 ### Education
+
+**B.Sc. Computer Science**
+> University of Manitoba, MB (Current student)
+
+**Defense and Security Certificate**
+> Algonquin College, ON (2018)
 
 **Teaching and Training Adults**
 > Georgian College, ON (2018)
