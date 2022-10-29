@@ -1,7 +1,8 @@
 ## Luc Miron
-68 Walcheren loop, 
-Borden, ON, L0M 1C0
-(705) 817-7644, evansdad11@hotmail.com
+11 Buttonwood bay    
+Winnipeg, MB, R2J 2E7  
+(705) 817-7644  
+ummironl@myumanitoba.ca  
 
 ### Skills
 
