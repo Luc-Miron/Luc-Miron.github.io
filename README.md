@@ -44,7 +44,7 @@ The purpose of this document is to provide instructions on using GitHub pages to
 
 > In this section, we will import your resume to the GitHub repository and edit the filename to ensure it launches correctly in your webpage.
 
-1.	 From the main branch select the '**_Add file_**' drop-down and select upload file. This will open the uplaod window.  
+1.	 From the main branch page select the '**_Add file_**' drop-down and select upload file. This will open the uplaod window.  
 
 2. 	 Use the drag and drop box feature or select the choose file option inside the box to to upload your Markdown resume. The filename will be in the display window above the comment boxes. 
 
@@ -66,11 +66,10 @@ The purpose of this document is to provide instructions on using GitHub pages to
 > In this section we will set up a theme for your resume hosting page using the GitHub Pages supported Jekyll themes and their static site generator.
 
 1.	 Create a new empty file in the main branch of your repository named `_config.yml`.
-2. 	 Browse the [GitHub Pages supported Themes](https://pages.github.com/themes/) and choose a theme.
+2. 	 Browse the [GitHub Pages supported Themes](https://pages.github.com/themes/) and choose a theme. 
 
->  Look through each README to find out about that particular theme.
-	
-	
+	> Look through each README to find out about that particular theme.
+
 3. 	 Copy the code from step 1 of the '_**Usage**_' section of your chosen theme into your `_config.yml` file. It should look something like this:
 
 ```
@@ -95,8 +94,8 @@ description: [A short description of your site's purpose]
 3. 	 Select the source '_**Deploy from a Branch**_' under the Build and Deployment heading.
 4. 	 Set the branch to '**_main_**' and the folder to '**_root_**' under the '_**Branch**_' sub-heading.
 5. 	 Check out your rendered resume on your site by selecting the '_**Visit Site**_' link once it has finished being built by the GitHub Pages workflow.
-
->  It may take a few moments for the site to build before the '_**Visit Site**_' link becomes available. Your page will be hosted at https://Firstname-Lastname.github.io/ by default.
+	
+	>  It may take a few moments for the site to build before the '_**Visit Site**_' link becomes available. Your page will be hosted at https://Firstname-Lastname.github.io/ by default.
 	
 6. 	 Now, you should work on editing your README to let people visiting your repository know more about it's purpose. Check out this [list](https://github.com/matiassingers/awesome-readme) of READMEs as examples.
 	
