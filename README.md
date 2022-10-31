@@ -19,7 +19,7 @@ This project was inspired by the book [Modern Technical Writing](https://www.ama
 
 1.	 GitHub account. (You can create one on [GitHub](https://github.com).)
 
-2. 	 Up to date resume written in Markdown.
+2. 	 Up to date resume written in Markdown. Click [here](https://owl.purdue.edu/owl/job_search_writing/resumes_and_vitas/resume_workshop/index.html) to learn how to write well formatted resume.
 
 > If you have no idea about GitHub or Markdown and what they are used for, I highly suggest starting with the [More Resources](#more-resources) section of this document where you can find material to familiarize yourself with these tools.
 
