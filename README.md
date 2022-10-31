@@ -113,6 +113,7 @@ Now that you have the basic resume setup and you've begun familiarizing yourself
  * 	This is a nice [clean template](https://github.com/sproogen/modern-resume-theme) which is also set up to be hosted on GitHub pages.
  *  This [example](https://github.com/ankitsultana/researcher) uses a welcome page and links to the resume.
  *  This is a nice [basic template](https://github.com/matarjalal/jekyll-resume-template) that can get you started with customizing.
+ * This minimal [resume theme](https://github.com/murraco/jekyll-theme-minimal-resume) has lots of room for customizing.
 
 Be sure to check out the [Resources](#more-resources) below to learn more about all the tools we discussed.
 
