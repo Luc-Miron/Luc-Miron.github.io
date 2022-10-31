@@ -33,12 +33,14 @@ The purpose of this document is to provide instructions on using GitHub pages to
 4.  Complete the '**_name_**' and '**_description_**' fields for your new repository.  
 
 	> Be sure to name your repository _**Firstname-Lastname.github.io**_.
-	
-5.  Select the box to '**_add a README_**'. This will populate a generic `README.md` file with the name and description of your repository. You can customize this later.
 
-6.  Select a '**_licence_**' from the drop-down box. I use the **GNU General Public Licence** but you can use any you're familiar with. 
+5.	Select '**_Public_**' for your resume hosting repository.
 
-7.  Finally click the '**_Create repository_**' button at the bottom and your repository will be generated with the licence file and a README containing the name and description of your repository.
+6.  Select the box to '**_add a README_**'. This will populate a generic `README.md` file with the name and description of your repository. You can customize this later.
+
+7.  Select a '**_licence_**' from the drop-down box. I use the **GNU General Public Licence** but you can use any you're familiar with. 
+
+8.  Finally click the '**_Create repository_**' button at the bottom and your repository will be generated with the licence file and a README containing the name and description of your repository.
 
 ### Importing Your Resume
 
