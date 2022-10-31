@@ -8,20 +8,20 @@
 
 Web-Based Authoring Technologies (all the tools listed in Etter's book). GitHub allows for content to be generated in simple Markdown files, formatted with GitHub's integrated Jekyll templates, and hosted on GitHub Pages.
 
-The purpose of this document is to deomnstrate the use of the following Web-Based Authoring technologies:
+The purpose of this document is to demonstrate the use of the following Web-Based Authoring technologies:
 * lightweight markup language (Markdown)
 * static site generator (jekyll)
 * distributed version control system (GitHub/GitHub Pages)
 
-This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in a Markdown, use jekyll to format the static site and provide instructions on using distributed version control system to host your own resume webpage (GitHub). In the following sections, you will see some pre-requisites you will need before getting started,the basic instructions and more resources to keep you going.
+This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in Markdown, use jekyll to format the static site and provide instructions on using a distributed version control system to host your own resume webpage (GitHub). In the following sections, you will see some pre-requisites you will need before getting started, the basic instructions and more resources to keep you going.
 
 ## Pre-requisites
 
 1.	 GitHub account. (You can create one on [GitHub](https://github.com).)
 
-2. 	 Up to date resume written in Markdown. Click [here](https://owl.purdue.edu/owl/job_search_writing/resumes_and_vitas/resume_workshop/index.html) to learn how to write well formatted resume.
+2. 	 Up to date resume written in Markdown. Click [here](https://owl.purdue.edu/owl/job_search_writing/resumes_and_vitas/resume_workshop/index.html) to learn how to write a well formatted resume.
 
-> If you have no idea about GitHub or Markdown and what they are used for, I highly suggest starting with the [More Resources](#more-resources) section of this document where you can find material to familiarize yourself with these tools.
+> If you have no idea about GitHub or Markdown and how they are used, I highly suggest starting with the [More Resources](#more-resources) section of this document where you can find material to familiarize yourself with these tools.
 
 ## Instructions
 
