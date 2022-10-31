@@ -85,6 +85,7 @@ plugins:
 title: [The title of your site]
 description: [A short description of your site's purpose]
 ```
+5.	 Commit the new `_config.yml` file to the repository by selecting the green **_Commit new_** file button at the bottom of the page.
 
 ### Launch
 
