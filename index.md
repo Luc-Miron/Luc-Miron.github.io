@@ -4,6 +4,11 @@ Winnipeg, MB, R2J 2E7
 (705) 817-7644  
 ummironl@myumanitoba.ca  
 
+## About me
+
+
+
+
 ## Skills
 
 #### Personnel and Resource Management
@@ -21,7 +26,16 @@ Generated Quality Management process documents for use by entire unit. Created r
 
 ## Work History
 
-#### Canadian forces School of Aerospace Technology and Engineering, Borden, ON (2011-2012, 2013-present)
+#### 17 Wing Winnipeg (2020 - present)
+
+* **1 CAD Directorate of Air Force Professional Development (Summer 2022)**
+  * Created Reserve Training Management Sharepoint site 
+  * Performed comparative analysis of PLQ vs USAF ALS    
+
+* **Wing accomodations (Summer 2021)**  
+  * Performed Barrack Warden duties
+
+#### Canadian forces School of Aerospace Technology and Engineering, Borden, ON (2011-2012, 2013-2020)
 
  * **Quality Management Team**
    * Review documents, audit processes, develop new 	processes, lead junior auditors, and facilitate 	auditor training.
@@ -53,7 +67,7 @@ Generated Quality Management process documents for use by entire unit. Created r
 ## Education
 
 **B.Sc. Computer Science**
-> University of Manitoba, MB (Current student)
+> University of Manitoba, MB (2020 - Current student)
 
 **Defense and Security Certificate**
 > Algonquin College, ON (2018)
