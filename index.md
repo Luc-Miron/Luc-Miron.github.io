@@ -4,11 +4,6 @@ Winnipeg, MB, R2J 2E7
 (705) 817-7644  
 ummironl@myumanitoba.ca  
 
-## About me
-
-
-
-
 ## Skills
 
 #### Personnel and Resource Management
