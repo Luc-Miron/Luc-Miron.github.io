@@ -132,7 +132,7 @@ Be sure to check out the [Resources](#more-resources) below to learn more about 
 ## Authors and Acknowledgements
 
 * Page and Resume authored by Luc Miron
-* Review and testing carried out by Evan Miron and 
+* Review and testing carried out by Evan Miron
 * Concepts and tools from Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * Resume theme ["Leap-Day"](https://github.com/pages-themes/leap-day) by [Matt Graham](https://twitter.com/mattgraham).
 * Resume theme ["Dinky"](https://github.com/pages-themes/dinky) by [Parker Moore](https://github.com/parkr), [Filipe Tavares](https://github.com/fptavares) and [Ben Balter](https://github.com/benbalter).
