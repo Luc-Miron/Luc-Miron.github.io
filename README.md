@@ -6,12 +6,12 @@
 
 ## Purpose
 
-The purpose of this document is to demonstrate the use of the following Web-Based Authoring technologies through the creation of a resume hosting static webpage:
+The purpose of this document is to demonstrate the use of the following Web-Based Authoring technologies through the creation of a static resume hosting webpage:
 * lightweight markup language (Markdown)
-* static site generator (jekyll)
+* static site generator (Jekyll)
 * distributed version control system (GitHub/GitHub Pages)
 
-This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in Markdown, use jekyll to format the static site and provide instructions on using a distributed version control system to host your own resume webpage (GitHub/GitHub Pages). In the following sections, you will see some pre-requisites you will need before getting started, the basic instructions and more resources to keep you going once you have the basic site up and running.
+This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in Markdown, use Jekyll to format the static site and provide instructions on using a distributed version control system to host your own resume webpage (GitHub/GitHub Pages). In the following sections, you will see some pre-requisites you will need before getting started, the basic instructions and more resources to keep you going once you have the basic site up and running.
 
 ## Pre-requisites
 
