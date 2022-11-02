@@ -6,14 +6,12 @@
 
 ## Purpose
 
-Web-Based Authoring Technologies (all the tools listed in Etter's book). GitHub allows for content to be generated in simple Markdown files, formatted with GitHub's integrated Jekyll templates, and hosted on GitHub Pages.
-
-The purpose of this document is to demonstrate the use of the following Web-Based Authoring technologies:
+The purpose of this document is to demonstrate the use of the following Web-Based Authoring technologies through the creation of a resume hosting static webpage:
 * lightweight markup language (Markdown)
 * static site generator (jekyll)
 * distributed version control system (GitHub/GitHub Pages)
 
-This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in Markdown, use jekyll to format the static site and provide instructions on using a distributed version control system to host your own resume webpage (GitHub). In the following sections, you will see some pre-requisites you will need before getting started, the basic instructions and more resources to keep you going.
+This project was inspired by the book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter. In this example we will edit a resume in Markdown, use jekyll to format the static site and provide instructions on using a distributed version control system to host your own resume webpage (GitHub/GitHub Pages). In the following sections, you will see some pre-requisites you will need before getting started, the basic instructions and more resources to keep you going once you have the basic site up and running.
 
 ## Pre-requisites
 
@@ -39,7 +37,7 @@ This project was inspired by the book [Modern Technical Writing](https://www.ama
 
 	> Be sure to name your repository _**Firstname-Lastname.github.io**_.
 
-5.	Select '**_Public_**' for this repository since it will be hosting your resume.
+5.	Select '**_Public_**' for this repository.
 
 6.  Select the box to '**_add a README_**'. This will populate a generic `README.md` file with the name and description of your repository. You can customize this later.
 
@@ -53,7 +51,7 @@ This project was inspired by the book [Modern Technical Writing](https://www.ama
 
 1.	 From the main branch page select the '**_Add file_**' drop-down and select upload file. This will open the upload window.  
 
-2. 	 Use the drop box feature or select the choose file option inside the box to to upload your Markdown resume. The filename will then be in the display window above the comment boxes. 
+2. 	 Use the drop box feature or select the choose file option inside the box to upload your Markdown resume. The filename will then be in the display window above the comment boxes. 
 
 3. 	 Select '_**Commit changes**_' to add your resume to the repository.
 
@@ -72,7 +70,7 @@ This project was inspired by the book [Modern Technical Writing](https://www.ama
 
 > In this section we will set up a theme for your resume hosting page using the GitHub Pages supported Jekyll themes and their static site generator.
 
-1.	 Create a new empty file in the main branch of your repository named `_config.yml`.
+1.	 Create a new empty file in the main branch of your repository named `_config.yml` using the `Add file` dropdown.
 2. 	 Browse the [GitHub Pages supported Themes](https://pages.github.com/themes/) and choose a theme. 
 > Look through each README to find out about that particular theme.
 
@@ -102,9 +100,10 @@ description: [A short description of your site's purpose]
 4. 	 Set the branch to '**_main_**' and the folder to '**_root_**' under the '_**Branch**_' sub-heading.
 5. 	 Check out your rendered resume on your site by selecting the '_**Visit Site**_' link once it has finished being built by the GitHub Pages workflow.
 	
->  It may take a few moments for the site to build before the '_**Visit Site**_' link becomes available. Your page will be hosted at https://Firstname-Lastname.github.io/ by default.
+>  It may take a few moments for the site to build before the '_**Visit Site**_' link becomes available. Your page will be hosted at https://[Firstname]-[Lastname].github.io/ by default.
 	
-6. 	 Now, you should work on editing your README to let people visiting your repository know more about it's purpose. Check out this [list](https://github.com/matiassingers/awesome-readme) of READMEs as examples.
+6. 	 Now, you should work on editing your README to let people visiting your repository know more about it's contents and purpose. Check out this [list](https://github.com/matiassingers/awesome-readme) of READMEs as examples.
+> Consider adding a [GIF](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47) like the one at the [beginning](#creating-your-own-resume-webpage) of this document to make your README more appealing or demontrate part of your process.
 	
 ### Summary
 
@@ -124,7 +123,7 @@ Be sure to check out the [Resources](#more-resources) below to learn more about 
 3. 	 Research some popular Markdown editors at [oberlo.ca](https://www.oberlo.ca/blog/markdown-editors).
 4.  Learn more about [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) to help customize your `_config.yml` file.
 5.	 Learn more about [Jekyll](https://jekyllrb.com/docs/) and static site generation on their documentation page.
-6.  Look up [these](https://github.com/topics/jekyll-resume-theme) custom Jekyll themes. 
+6.  Look up [these](https://github.com/topics/jekyll-resume-theme) other custom Jekyll themes. 
 7.	 Learn to create a short [GIF](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47) yourself that you can use in your README.
 8. 	 Check out Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 9.  Read this [blog](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html) post to find out why this Biomedical engineer switched to Markdown for their Resume.
@@ -134,8 +133,9 @@ Be sure to check out the [Resources](#more-resources) below to learn more about 
 
 * Page and Resume authored by Luc Miron
 * Review and testing carried out by Evan Miron and 
-* Concepts and tools inspired by Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* Concepts and tools from Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * Resume theme ["Leap-Day"](https://github.com/pages-themes/leap-day) by [Matt Graham](https://twitter.com/mattgraham).
+* Resume theme ["Dinky"](https://github.com/pages-themes/dinky) by [Parker Moore](https://github.com/parkr), [Filipe Tavares](https://github.com/fptavares) and [Ben Balter](https://github.com/benbalter).
 
 
 ## FAQs
@@ -143,8 +143,8 @@ Be sure to check out the [Resources](#more-resources) below to learn more about 
 * Why do I see the `visit site` link on the settings page but it's displaying an older version of my resume?  
 > Be patient. You have to wait for GitHub to build the updated site. Wait a minute or two, then refresh the page in your browser.
 
-* How do I fix the fact i'm still getting a 404 error even after I waited for the site to build and the link in my GitHub pages menu looks like it's live?
-> Confirm all your files are named correctly. The static site builder is looking for specific file names in your repository for the `_config.yml` and `index.md` files. You can also confirm the site is being launched from the main branch and all changes have been committed to main.
+* How do I fix the fact I'm still getting a 404 error even after I waited for the site to build and the link in my GitHub pages menu looks like it's live?
+> Confirm all your files are named correctly. The static site builder is looking for specific file names in your repository. Specifically, for the `_config.yml` and `index.md` files. You can also confirm the site is being launched from the main branch and all changes have been committed to main.
  		 	
 * Can I edit the webpage so there is a welcome page that links to the resume?  
 > 	Absolutely! Check out this [example](https://github.com/ankitsultana/researcher) which is also hosted on GitHub Pages with a welcome page, link to the PDF resume and a contact page. Note how the links and folder hierarchy are laid out. For more information on customizing a your themes check out [Jekyll's documentation](https://jekyllrb.com/docs/themes/).
